@@ -1,0 +1,58 @@
+﻿{
+    "$schema":  "../project.meta.schema.json",
+    "schemaVersion":  1,
+    "name":  "flight_track_opus4.6",
+    "title":  "Flight Track Opus4.6",
+    "kind":  "git-repository",
+    "status":  "unknown",
+    "category":  "app-or-demo",
+    "description":  "A high-quality app or demo project named Flight Track Opus4.6, built using node, vite, static-html and focused on app or demo concepts with rich metadata.",
+    "tags":  [
+                 "app-or-demo"
+             ],
+    "priority":  "unset",
+    "owner":  "",
+    "paths":  {
+                  "relative":  "flight_track_opus4.6",
+                  "absolute":  "F:\\learnbydoingwithsteven\\flight_track_opus4.6"
+              },
+    "repo":  {
+                 "hasGit":  true,
+                 "remote":  "https://github.com/learnbydoingwithsteven/flight-tracker-claude46.git"
+             },
+    "stack":  [
+                  "node",
+                  "vite",
+                  "static-html"
+              ],
+    "entrypoints":  {
+                        "readme":  "README.md",
+                        "package":  "package.json",
+                        "web":  "index.html",
+                        "viteConfig":  "vite.config.js"
+                    },
+    "signals":  {
+                    "hasReadme":  true,
+                    "hasPackageJson":  true,
+                    "hasIndexHtml":  true,
+                    "hasViteConfig":  true,
+                    "hasNextConfig":  false,
+                    "hasPython":  false,
+                    "hasNotebooks":  false
+                },
+    "children":  {
+                     "count":  2,
+                     "immediateProjectSignalCount":  1
+                 },
+    "activity":  {
+                     "lastModifiedLocal":  "2026-05-23T12:53:42",
+                     "inferredActivity":  "hot"
+                 },
+    "notes":  "",
+    "metadata":  {
+                     "generated":  true,
+                     "generatedAt":  "2026-05-23T10:55:25Z",
+                     "generatedBy":  "tools/update_project_metadata.ps1",
+                     "confidence":  "inferred"
+                 }
+}
