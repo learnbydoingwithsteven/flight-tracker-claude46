@@ -1,0 +1,35 @@
+﻿{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-30T03:48:13Z",
+    "generatedBy":  "tools/update_project_metadata.ps1",
+    "workspace":  {
+                      "root":  "F:\\learnbydoingwithsteven",
+                      "scopeRoot":  "F:\\learnbydoingwithsteven\\flight_track_opus4.6",
+                      "scopeRelativePath":  "flight_track_opus4.6",
+                      "folderCount":  1
+                  },
+    "totals":  {
+                   "gitRepositories":  0,
+                   "projectFolders":  0,
+                   "workspaceFolders":  1,
+                   "archiveOrOutput":  0
+               },
+    "projects":  [
+                     {
+                         "name":  "src",
+                         "title":  "Src",
+                         "kind":  "workspace-folder",
+                         "status":  "unknown",
+                         "category":  "workspace-folder",
+                         "tags":  [
+                                      "workspace-folder"
+                                  ],
+                         "relativePath":  "flight_track_opus4.6/src",
+                         "stack":  [
+
+                                   ],
+                         "childProjectSignals":  0,
+                         "inferredActivity":  "hot"
+                     }
+                 ]
+}

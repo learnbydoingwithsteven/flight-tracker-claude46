@@ -1,0 +1,53 @@
+﻿{
+    "$schema":  "../../project.meta.schema.json",
+    "schemaVersion":  1,
+    "name":  "src",
+    "title":  "Src",
+    "kind":  "workspace-folder",
+    "status":  "unknown",
+    "category":  "workspace-folder",
+    "description":  "",
+    "tags":  [
+                 "workspace-folder"
+             ],
+    "priority":  "unset",
+    "owner":  "",
+    "paths":  {
+                  "relative":  "flight_track_opus4.6/src",
+                  "absolute":  "F:\\learnbydoingwithsteven\\flight_track_opus4.6\\src"
+              },
+    "repo":  {
+                 "hasGit":  false,
+                 "remote":  null
+             },
+    "stack":  [
+
+              ],
+    "entrypoints":  {
+
+                    },
+    "signals":  {
+                    "hasReadme":  false,
+                    "hasPackageJson":  false,
+                    "hasIndexHtml":  false,
+                    "hasViteConfig":  false,
+                    "hasNextConfig":  false,
+                    "hasPython":  false,
+                    "hasNotebooks":  false
+                },
+    "children":  {
+                     "count":  4,
+                     "immediateProjectSignalCount":  0
+                 },
+    "activity":  {
+                     "lastModifiedLocal":  "2026-05-11T22:40:49",
+                     "inferredActivity":  "hot"
+                 },
+    "notes":  "",
+    "metadata":  {
+                     "generated":  true,
+                     "generatedAt":  "2026-05-30T03:48:13Z",
+                     "generatedBy":  "tools/update_project_metadata.ps1",
+                     "confidence":  "inferred"
+                 }
+}
